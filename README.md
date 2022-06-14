@@ -1,4 +1,4 @@
-# Deslpigue de pagina en WordPress por medio de Azure
+# Despliegue de pagina en WordPress por medio de Azure
 -------------------------------
  Lo primero que se necesita es tener una cuenta de azure e ingresar al [Portal de Azure](portal.azure.com)
 
